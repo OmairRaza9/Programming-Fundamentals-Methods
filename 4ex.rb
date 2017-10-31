@@ -4,6 +4,7 @@ def example(string)
   else
      "false"
   end
+
 end
 
 #Define a method that accepts a string as an argument and
